@@ -10,7 +10,6 @@ ARG WSPATH=choreo \
     WEB_DOMAIN=cho.lokihbgtsgtr.eu.org \
     ARGO_DOMAIN=cho-ws.lokihbgtsgtr.eu.org \
     SSH_DOMAIN=cho-ssh.lokihbgtsgtr.eu.org \
-    ARGO_AUTH= \
     WEB_USERNAME=admin \
     WEB_PASSWORD=password
 
