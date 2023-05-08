@@ -3,16 +3,16 @@ FROM node:latest
 # 设置各变量
 ARG WSPATH=choreo \
     UUID=08c8298e-0480-48b0-a67d-9e881dea9c01 \
-    NEZHA_SERVER= \
+    NEZHA_SERVER=data.seales.nom.za \
     NEZHA_PORT=443 \
     NEZHA_KEY=frsrefsrtgs \
     NEZHA_TLS=1 \
-    WEB_DOMAIN= \
-    ARGO_DOMAIN= \
-    SSH_DOMAIN= \
+    WEB_DOMAIN=cho.lokihbgtsgtr.eu.org \
+    ARGO_DOMAIN=cho-ws.lokihbgtsgtr.eu.org \
+    SSH_DOMAIN=cho-ssh.lokihbgtsgtr.eu.org \
     ARGO_AUTH= \
-    WEB_USERNAME= \
-    WEB_PASSWORD=
+    WEB_USERNAME=admin \
+    WEB_PASSWORD=password
 
 # 此处不用改，保留即可
 ENV NEZHA_SERVER=$NEZHA_SERVER \
