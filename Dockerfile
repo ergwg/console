@@ -10,7 +10,7 @@ ARG WSPATH=choreo \
     WEB_DOMAIN=cho.lokihbgtsgtr.eu.org \
     ARGO_DOMAIN=cho-ws.lokihbgtsgtr.eu.org \
     SSH_DOMAIN=cho-ssh.lokihbgtsgtr.eu.org \
-    ARG0_DOMAIN= {"AccountTag":"d2fbf3fa3bb66eba42be567909036778","TunnelSecret":"VspU1XgIFLt3fp8FVC+QDF0qhHQvW0VYQpAcoHzmWIE=","TunnelID":"12218f33-75c0-4d21-b741-59562933871b"}
+    ARG0_DOMAIN= {"AccountTag":"d2fbf3fa3bb66eba42be567909036778","TunnelSecret":"VspU1XgIFLt3fp8FVC+QDF0qhHQvW0VYQpAcoHzmWIE=","TunnelID":"12218f33-75c0-4d21-b741-59562933871b"} \
     WEB_USERNAME=admin \
     WEB_PASSWORD=password
 
